@@ -3,10 +3,10 @@
 I'm a developer who **spots everyday problems and builds the tools to fix them**.
 I built an iOS app because checking cigarette inventory at my convenience store job was tedious, and I'm now taking a breakup-recovery app from concept to launch.
 
-- 🔭 Currently building **Reason · 그날 이후 (After That Day)**, a breakup recovery app on React Native + Supabase
-- 🌱 Learning backend architecture (async queues, caching), database security (RLS), and AI feature design
-- 🤖 I work alongside AI tools to ship fast, and I document the reasoning behind every design decision
-- 📫 Reach me at `a01023931663@gmail.com`
+- Currently building **Reason · 그날 이후 (After That Day)**, a breakup recovery app on React Native + Supabase
+- Learning backend architecture (async queues, caching), database security (RLS), and AI feature design
+- I work alongside AI tools to ship fast, and I document the reasoning behind every design decision
+- Reach me at `a01023931663@gmail.com`
 
 <br>
 
